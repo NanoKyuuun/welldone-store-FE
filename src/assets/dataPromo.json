@@ -1,0 +1,273 @@
+{
+    "sections": [
+      {
+        "sectionTitle": "PAKET PROMO",
+        "buttons": [
+          {
+            "buttonTitle": "Promo 1",
+            "imageUrl": "img/promo1.png",
+            "subtitle1": "Rp 50.000",
+            "subtitle2": "Rp 45.000"
+          },
+          {
+            "buttonTitle": "Promo 2",
+            "imageUrl": "img/promo2.png",
+            "subtitle1": "Rp 60.000",
+            "subtitle2": "Rp 55.000"
+          },
+          {
+            "buttonTitle": "Promo 3",
+            "imageUrl": "img/promo3.png",
+            "subtitle1": "Rp 60.000",
+            "subtitle2": "Rp 55.000"
+          },
+          {
+            "buttonTitle": "Promo 4",
+            "imageUrl": "img/promo4.png",
+            "subtitle1": "Rp 60.000",
+            "subtitle2": "Rp 55.000"
+          },
+          {
+            "buttonTitle": "Promo 5",
+            "imageUrl": "img/promo5.png",
+            "subtitle1": "Rp 60.000",
+            "subtitle2": "Rp 55.000"
+          },
+          {
+            "buttonTitle": "Promo 6",
+            "imageUrl": "img/promo6.png",
+            "subtitle1": "Rp 60.000",
+            "subtitle2": "Rp 55.000"
+          },
+          {
+            "buttonTitle": "Promo 7",
+            "imageUrl": "img/promo7.png",
+            "subtitle1": "Rp 60.000",
+            "subtitle2": "Rp 55.000"
+          },
+          {
+            "buttonTitle": "Promo 8",
+            "imageUrl": "img/promo7.png",
+            "subtitle1": "Rp 60.000",
+            "subtitle2": "Rp 55.000"
+          },
+          {
+            "buttonTitle": "Promo 9",
+            "imageUrl": "img/promo7.png",
+            "subtitle1": "Rp 60.000",
+            "subtitle2": "Rp 55.000"
+          }
+        ]
+      },
+      {
+        "sectionTitle": "PERBINTANG",
+        "buttons": [
+            {
+                "buttonTitle": "Promo 1",
+                "imageUrl": "img/promo1.png",
+                "subtitle1": "Rp 50.000",
+                "subtitle2": "Rp 45.000"
+              },
+              {
+                "buttonTitle": "Promo 2",
+                "imageUrl": "img/promo2.png",
+                "subtitle1": "Rp 60.000",
+                "subtitle2": "Rp 55.000"
+              },
+              {
+                "buttonTitle": "Promo 3",
+                "imageUrl": "img/promo3.png",
+                "subtitle1": "Rp 60.000",
+                "subtitle2": "Rp 55.000"
+              },
+              {
+                "buttonTitle": "Promo 4",
+                "imageUrl": "img/promo4.png",
+                "subtitle1": "Rp 60.000",
+                "subtitle2": "Rp 55.000"
+              },
+              {
+                "buttonTitle": "Promo 5",
+                "imageUrl": "img/promo5.png",
+                "subtitle1": "Rp 60.000",
+                "subtitle2": "Rp 55.000"
+              },
+              {
+                "buttonTitle": "Promo 6",
+                "imageUrl": "img/promo6.png",
+                "subtitle1": "Rp 60.000",
+                "subtitle2": "Rp 55.000"
+              },
+              {
+                "buttonTitle": "Promo 7",
+                "imageUrl": "img/promo7.png",
+                "subtitle1": "Rp 60.000",
+                "subtitle2": "Rp 55.000"
+              },
+              {
+                "buttonTitle": "Promo 8",
+                "imageUrl": "img/promo7.png",
+                "subtitle1": "Rp 60.000",
+                "subtitle2": "Rp 55.000"
+              },
+              {
+                "buttonTitle": "Promo 9",
+                "imageUrl": "img/promo7.png",
+                "subtitle1": "Rp 60.000",
+                "subtitle2": "Rp 55.000"
+              }
+        ]
+      },
+      {
+        "sectionTitle": "PAKET GRANDMASTER",
+        "buttons": [
+            {
+                "buttonTitle": "Promo 1",
+                "imageUrl": "img/gm1.png",
+                "subtitle1": "Rp 50.000",
+                "subtitle2": "Rp 45.000"
+              },
+              {
+                "buttonTitle": "Promo 2",
+                "imageUrl": "img/gm2.png",
+                "subtitle1": "Rp 60.000",
+                "subtitle2": "Rp 55.000"
+              },
+              {
+                "buttonTitle": "Promo 3",
+                "imageUrl": "img/gm3.png",
+                "subtitle1": "Rp 60.000",
+                "subtitle2": "Rp 55.000"
+              },
+              {
+                "buttonTitle": "Promo 4",
+                "imageUrl": "img/gm3.png",
+                "subtitle1": "Rp 60.000",
+                "subtitle2": "Rp 55.000"
+              },
+              {
+                "buttonTitle": "Promo 5",
+                "imageUrl": "img/gm3.png",
+                "subtitle1": "Rp 60.000",
+                "subtitle2": "Rp 55.000"
+              },
+              {
+                "buttonTitle": "Promo 6",
+                "imageUrl": "img/gm3.png",
+                "subtitle1": "Rp 60.000",
+                "subtitle2": "Rp 55.000"
+              }
+        ]
+      },
+      {
+        "sectionTitle": "PAKET EPIC",
+        "buttons": [
+            {
+                "buttonTitle": "Promo 1",
+                "imageUrl": "img/epic1.png",
+                "subtitle1": "Rp 50.000",
+                "subtitle2": "Rp 45.000"
+              },
+              {
+                "buttonTitle": "Promo 2",
+                "imageUrl": "img/epic2.png",
+                "subtitle1": "Rp 60.000",
+                "subtitle2": "Rp 55.000"
+              },
+              {
+                "buttonTitle": "Promo 3",
+                "imageUrl": "img/epic2.png",
+                "subtitle1": "Rp 60.000",
+                "subtitle2": "Rp 55.000"
+              },
+              {
+                "buttonTitle": "Promo 4",
+                "imageUrl": "img/epic2.png",
+                "subtitle1": "Rp 60.000",
+                "subtitle2": "Rp 55.000"
+              },
+              {
+                "buttonTitle": "Promo 5",
+                "imageUrl": "img/epic2.png",
+                "subtitle1": "Rp 60.000",
+                "subtitle2": "Rp 55.000"
+              }
+        ]
+      },
+      {
+        "sectionTitle": "PAKET LEGEND",
+        "buttons": [
+            {
+                "buttonTitle": "Promo 1",
+                "imageUrl": "img/legend1.png",
+                "subtitle1": "Rp 50.000",
+                "subtitle2": "Rp 45.000"
+              },
+              {
+                "buttonTitle": "Promo 2",
+                "imageUrl": "img/legend1.png",
+                "subtitle1": "Rp 60.000",
+                "subtitle2": "Rp 55.000"
+              },
+              {
+                "buttonTitle": "Promo 3",
+                "imageUrl": "img/legend1.png",
+                "subtitle1": "Rp 60.000",
+                "subtitle2": "Rp 55.000"
+              },
+              {
+                "buttonTitle": "Promo 4",
+                "imageUrl": "img/legend1.png",
+                "subtitle1": "Rp 60.000",
+                "subtitle2": "Rp 55.000"
+              }
+        ]
+      },
+      {
+        "sectionTitle": "PAKET MYTHIC",
+        "buttons": [
+            {
+                "buttonTitle": "Promo 1",
+                "imageUrl": "img/mythic1.png",
+                "subtitle1": "Rp 50.000",
+                "subtitle2": "Rp 45.000"
+              },
+              {
+                "buttonTitle": "Promo 2",
+                "imageUrl": "img/mythic1.png",
+                "subtitle1": "Rp 60.000",
+                "subtitle2": "Rp 55.000"
+              },
+              {
+                "buttonTitle": "Promo 3",
+                "imageUrl": "img/mythic1.png",
+                "subtitle1": "Rp 60.000",
+                "subtitle2": "Rp 55.000"
+              }
+        ]
+      },
+      {
+        "sectionTitle": "PILIH PEMBAYARAN",
+        "buttons": [
+            {
+                "buttonTitle": "E-Wallet",
+                "imageUrl": "img/Vector1.png"
+              },
+              {
+                "buttonTitle": "Credit Card",
+                "imageUrl": "img/Vector2.png"
+              },
+              {
+                "buttonTitle": "Convenience Store",
+                "imageUrl": "img/Vector3.png"
+              },
+              {
+                "buttonTitle": "Pulsa / Credit",
+                "imageUrl": "img/Vector4.png"
+              }
+        ]
+      }
+
+    ]
+  }
+  
